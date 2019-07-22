@@ -1,0 +1,9 @@
+{
+  "name": "aspnetcore22mvc-okta-signin",
+  "description": "Base solution for ASP.NET Core 2.2 MVC using Otka and the OktaSignIn javascript widget",
+  "url": "https://github.com/cwoodruff/aspnetcore22mvc-okta-signin",
+  "logo": "https://github.com/cwoodruff/aspnetcore22mvc-okta-signin/blob/master/ASP.NET-Core-MVC-Logo.png",
+  "categories": [
+    "authentication"
+  ]
+}
